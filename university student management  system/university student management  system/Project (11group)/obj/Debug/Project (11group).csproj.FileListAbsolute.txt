@@ -1,0 +1,11 @@
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\bin\Debug\Project (11group).exe.config
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\bin\Debug\Project (11group).exe
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\bin\Debug\Project (11group).pdb
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project__11group_.Form1.resources
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project__11group_.Properties.Resources.resources
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project (11group).csproj.GenerateResource.cache
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project (11group).csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project (11group).exe
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project (11group).pdb
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project__11group_.Form2.resources
+C:\Users\acer\Documents\Group project\Group project\Project (11group)\Project (11group)\obj\Debug\Project (11group).csproj.AssemblyReference.cache
